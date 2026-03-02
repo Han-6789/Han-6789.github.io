@@ -2,24 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>UVA</a>. Senior Undergraduate Researcher in CS & Biochemistry.
+subtitle: <a href='#'>UVA</a>. Senior Undergraduate Researcher in Machine Learning & NLP.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # 如果你想让头像变成圆形，把 false 改成 true
+  image_circular: false
   more_info: >
     <p>University of Virginia</p>
     <p>Charlottesville, VA</p>
 
-news: true  # 显示最新动态
-social: true  # 显示社交媒体链接
+news: true 
+social: true 
 ---
 
-I am a Senior Undergraduate Researcher majoring in Computer Science and Biochemistry at the **University of Virginia (UVA)**. My research lies at the intersection of machine learning and bioinformatics, with a strong passion for applying advanced AI techniques to solve complex biological problems.
+I am a Senior Undergraduate Researcher at the **University of Virginia (UVA)**, working in **Professor Aidong Zhang's Lab**. My research interests are centered around **Machine Learning and Natural Language Processing (NLP)**, with a focus on developing scalable algorithms and applying deep learning techniques to solve complex data challenges.
 
-Currently, I am working closely with Ph.D. researchers in a computational biology lab. My primary research focuses on predicting the functional impact of protein phosphorylation sites. To achieve this, I actively work with state-of-the-art generative models and protein structure prediction tools, including **ESMFold, RFdiffusion, and EvoDiff**. 
+While my academic background spans both Computer Science and Biochemistry, my core technical expertise lies in foundational AI. My work involves designing and optimizing neural network architectures, representation learning, and exploring advanced data mining methodologies to extract meaningful insights from large-scale datasets.
 
-I have a solid foundation in programming, particularly in **Python and C**, which I utilize daily for data scraping, algorithm implementation, and model training. 
+I have a robust programming foundation, primarily utilizing **Python and C** for algorithm implementation, model training, and building efficient machine learning pipelines. 
 
-I am actively seeking full-time opportunities where I can leverage my interdisciplinary background and technical skills to drive innovative research and development.
+I am actively seeking full-time Software Engineering or Machine Learning Engineer opportunities where I can leverage my research experience and technical skills to build innovative, AI-driven solutions.
